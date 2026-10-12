@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm Gladson Immanuel
 
-### 💻 ECE Student | Aspiring Software Developer
+### 💻 ECE Student | Aspiring Software Engineer | Technology Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=ECE+Student;Learning+C+Programming;Building+My+Developer+Journey" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 - 🎓 Studying **B.E. Electronics and Communication Engineering**
 - 💻 Learning programming and problem-solving
 - 🌱 Currently improving my **C programming** skills
-- 🎯 Working toward becoming a skilled software developer
+- 🎯 Working toward becoming a skilled software engineer
 - ⚡ I enjoy coding and learning new technologies
 
 ## 🛠️ Tech Stack
